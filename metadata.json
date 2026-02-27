@@ -1,0 +1,5 @@
+{
+  "name": "FitLink - 運動共享與愛心平台",
+  "description": "一個結合運動打卡、場地預約、共享健身艙、設備租賃及公益捐贈的綜合運動平台。",
+  "requestFramePermissions": ["geolocation"]
+}
